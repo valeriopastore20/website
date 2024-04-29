@@ -13,5 +13,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Comando per avviare il server quando il contenitore viene eseguito
 CMD gunicorn -w 4 -b 0.0.0.0:3000 app:app
 # Esponi la porta 3000 per il server Flask
-EXPOSE 3000#
+EXPOSE 3000
 
