@@ -561,12 +561,6 @@
   margin: -96px 0 60px 865px;
 }
 
-.u-section-3 .u-line-1 {
-  height: 3px;
-  transform-origin: center top;
-  width: 0;
-  margin: -442px auto 0 14px;
-}
 
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
@@ -705,7 +699,7 @@
 
   .u-section-3 .u-text-1 {
     font-size: 2.25rem;
-    margin-top: 32px;
+    margin-top: 42px;
   }
 
   .u-section-3 .u-text-2 {
@@ -714,7 +708,7 @@
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
-    margin-top: 432px;
+    margin-top: 420px;
     margin-left: 33px;
     margin-right: 33px;
   }
